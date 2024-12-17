@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3086
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-TARGETDURATION:8
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:8.00000000,
+http://aktv.top/AKTV/stream/aktv/null-8/03083.ts
+#EXTINF:8.00000000,
+http://aktv.top/AKTV/stream/aktv/null-8/03084.ts
+#EXTINF:8.00000000,
+http://aktv.top/AKTV/stream/aktv/null-8/03085.ts
+
+#AK Master
+# keyecho=NOKEY    KEYTIME=
+# 缓存有效期:0# /aktv/null-8/
+#ip:60.20.119.6
